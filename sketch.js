@@ -20,6 +20,8 @@ function draw() {
   condition_fatigue();
   level_up();
 
+  normal_body ()
+
   drawWindow(230, 170, 250, 180); //창문 그리기 
 
   // 웹캠 버튼 (다른 버튼들과 같은 라인)
